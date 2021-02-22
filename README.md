@@ -5,11 +5,12 @@
 **El contenido de este repositorio se encuentra en el archivo tipo Shader.
 con el modelo de luz basado en el Lambert en Unity.**
 
-*Su contenido se deslinda de lo siguiente:*
-1.Creacion de un Shader para armar una escena 3D con un modelo.
-2.Basado en Lambert.
-3.Efecto Rim, Phong, Banded, Wrap.
-4.Mapa de normales, Textura y color.
+*Su contenido se deslinda de lo siguiente:*  
+
+1.Creacion de un Shader para armar una escena 3D con un modelo.  
+2.Basado en Lambert.  
+3.Efecto Rim, Phong, Banded, Wrap.  
+4.Mapa de normales, Textura y color.  
 5.Control de intensidad, control principal del Albedo para iluminación.
 ___
 Lo primero que se realizo fue una creación de Shader en Unlit, con un modelo básico de luz Lambert. Al siguiente paso fue analizar lo que se pedía en el proyecto, así se empezó a realizar, en primera estancia se descargó un modelo básico de Unity Tiger con el cual se tomó solo el modelo base, su textura y mapa de normales. [enlace de Tiger](https://assetstore.unity.com/packages/3d/characters/animals/mammals/golden-tiger-55797)  
