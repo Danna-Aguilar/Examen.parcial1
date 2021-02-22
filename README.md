@@ -2,8 +2,7 @@
 ## Proyecto parcial 1 / tópicos de física
 ### AGUILAR ROMO DANNA PAULINA    
 * * *
-**El contenido de este repositorio se encuentra en el archivo tipo Shader.
-con el modelo de luz basado en el Lambert en Unity.**
+**El contenido de este repositorio se encuentra en el archivo tipo Shader, con el modelo de luz basado en el Lambert en Unity.**
 
 *Su contenido se deslinda de lo siguiente:*  
 
