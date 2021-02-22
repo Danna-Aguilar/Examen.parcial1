@@ -12,6 +12,7 @@
 4.Mapa de normales, Textura y color.  
 5.Control de intensidad, control principal del Albedo para iluminación.
 ___
+### Contenido y explicación
 Lo primero que se realizo fue una creación de Shader en Unlit, con un modelo básico de luz Lambert. Al siguiente paso fue analizar lo que se pedía en el proyecto, así se empezó a realizar, en primera estancia se descargó un modelo básico de Unity Tiger con el cual se tomó solo el modelo base, su textura y mapa de normales. [enlace de Tiger](https://assetstore.unity.com/packages/3d/characters/animals/mammals/golden-tiger-55797)  
 El Shader se nombró como Banded-TS, donde para llegar a tal resultado de nuestro modelo, se implementaron distintos contendidos y Lightings.
 En el Código base del shader, se empezó colocando el color y textura con _MainTex y _Albedo. Después se pide la Normal donde nos encontramos con la textura y el Strengh las cuales nos permiten agregar detalles superficiales al modelo y permite que atrape la luz de una manera más real.  
